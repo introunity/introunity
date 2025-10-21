@@ -15,6 +15,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
+  <a href="http://discord.com/users/apoorv#4040" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 <p align="center">
